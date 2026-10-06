@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    // TODO: Declare your pointers here
+    
+    
+    // TODO: Print the pointer addresses using the required format
+    
+    
+    return 0;
+}
