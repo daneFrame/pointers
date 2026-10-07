@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+
+
+
+int main() {
+   
+int *int_ptr = NULL;
+char *char_ptr = NULL;
+float *float_ptr = NULL;
+    
+printf("Integer pointer: %p\n", (void*)int_ptr);
+printf("Character pointer: %p\n", (void*)char_ptr);
+printf("Float pointer: %p\n", (void*)float_ptr);
+    
+    
+    return 0;
+}
