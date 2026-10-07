@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int *int_ptr = NULL;
+char *char_ptr = NULL;
+float *float_ptr = NULL;
+
+
+int main() {
+    // TODO: Declare your pointers here
+    
+    
+    // TODO: Print the pointer addresses using the required format
+    
+    
+    return 0;
+}
